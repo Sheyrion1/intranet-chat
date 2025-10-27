@@ -20,3 +20,7 @@ CREATE TABLE contactos (
 
 INSERT INTO users (username, password, role)
 VALUES ('admin', MD5('CoNiskYSaTIlGriSterSTo'), 'admin');
+
+
+# Agrego script SQL con estructura de base de datos y usuario admin
+
